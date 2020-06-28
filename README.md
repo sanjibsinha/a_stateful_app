@@ -1,6 +1,8 @@
 # a_stateful_app
 
-A new Flutter project.
+A new Flutter project as I have started writing a book for Flutter beginners. The book - Beginning Flutter with Dart, can be downloded free at my Leanpub platform
+
+- [Beginning Flutter with Dart](https://leanpub.com/beginningflutterwithdart)
 
 ## Getting Started
 
